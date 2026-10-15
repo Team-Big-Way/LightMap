@@ -15,7 +15,7 @@ Many video games rely on important audio ques to inform the player of certain ac
 
 
 
-#### Applications:
+### Other Applications:
 Visualize game audio to provide additional feedback for deaf and hard-of-hearing players. The initial RGB output represents the overall audio spectrum; recognizing specific sounds would require further processing.
 
 Other potential applications include music-reactive lighting, desktop visualizations, and RGB device integration.
