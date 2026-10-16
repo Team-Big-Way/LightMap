@@ -1,4 +1,4 @@
-https://github.com/loilipopi/LightMap/tree/main
+[LightMap (Main Branch)](https://github.com/loilipopi/LightMap/tree/main)
 ## Group Members
 [Joe Meritt](https://github.com/loilipopi) (Project Manager)\
 Robert Hoang (Designer)\
