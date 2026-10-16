@@ -4,7 +4,7 @@
 
 ### Mapping Volume and Frequency to a Colour Map for One Colour Output
 
-[Specifications](https://github.com/loilipopi/LightMap/blob/main/readmeSubmission.md#specification) • [Problem Statement](#problem-statement) • [Applications](#applications)
+[Group Member](https://github.com/loilipopi/LightMap/blob/main/readmeSubmission.md#group-members) • [Specifications](https://github.com/loilipopi/LightMap/blob/main/readmeSubmission.md#specification) • [Problem Statement](#problem-statement) • [Applications](#applications)
 
 </div>
 Capture system audio and compute its frequency spectrum (FFT).
