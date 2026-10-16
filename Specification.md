@@ -1,5 +1,5 @@
 ## problem
-Individuals with poor hearing cant play video games that make use of important audio ques. 
+Individuals with poor hearing cant play video games that make use of important audio ques. These video games become inaccessible or significantly more difficult to play for these individuals. 
 
 ## soluion
 map audio frequency vs volume to a colour map to represent specific sounds and frequencies and distinguish them
