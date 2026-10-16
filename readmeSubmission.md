@@ -1,10 +1,10 @@
 https://github.com/loilipopi/LightMap/tree/main
 ## Group Members
-Joe Meritt @loilipopi (Project Manager)\
+[Joe Meritt](https://github.com/loilipopi) (Project Manager)\
 Robert Hoang (Designer)\
-Lucas Lu @l-lu2007 (Developer)\
-Kevin Wu @isnxnet (Developer)\
-Taj Sangra @tajsangra (Developer)
+[Lucas Lu](https://github.com/l-lu2007) (Developer)\
+[Kevin Wu](https://github.com/isnxnet) (Developer)\
+[Taj Sangra](https://github.com/tajsangra) (Developer)
 
 ## Problem Statement
 Many video games rely on important audio ques to inform the player of certain actions or opportunities within games which can make them inaccessible or significantly harder to play for individuals who have poor hearing or are deaf. For example, many tactical shooter's bomb defusal gamemodes make distinct and important audio ques to inform the player of when important objectives like the bomb being planted/defused, or opportunities such as footsteps or audio ques of certain character abilities to take advantage of. This task becomes even harder with games that also have music mixed in with these audio ques. Some games have tried to add visual ques to the game along side these audio ques to try and make the game more accessible however, most of these (especially for competitive games) are very limited and provide very little value in comparison. 
