@@ -1,3 +1,4 @@
+https://github.com/loilipopi/LightMap/tree/main
 ## Group Members
 Joe Meritt (Project Manager)
 Robert Hoang (Designer)
