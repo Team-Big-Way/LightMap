@@ -1,7 +1,12 @@
-# LightMap
-### Mapping Volume and Frequency to a Colour Map for One Colour Output
-A real-time audio visualization system that converts PC audio into a single RGB colour using a customizable 2D colour map.
+<div align="center">
 
+# LightMap
+
+### Mapping Volume and Frequency to a Colour Map for One Colour Output
+
+[Specifications](https://github.com/loilipopi/LightMap/blob/main/readmeSubmission.md#specification) • [Problem Statement](#problem-statement) • [Applications](#applications)
+
+</div>
 Capture system audio and compute its frequency spectrum (FFT).
 
 Map frequency and normalized amplitude to RGB values on a 2D colour map.
