@@ -21,4 +21,4 @@ We want to create a tool where PC audio is captured and processed with a FFT to 
 Additionally, the user can create their own custom colour map for whatever scenario and game they want, ideally this should be easy to make but is outside the scope of this project.
 
 
-For example in a game like Valorant, there is an objective emits a sound periodically which gets faster as it nears the end of the timer. Not being able to hear that sound is determinantal as can't tell how much time is left so what our software will do is take that sound convert it to a colour and output it to the user. 
+For example in a game like Valorant, there is an objective emits a sound periodically which gets faster as it nears the end of the timer. Not being able to hear that sound is detrimental as can't tell how much time is left so what our software will do is take that sound convert it to a colour and output it to the user. 
